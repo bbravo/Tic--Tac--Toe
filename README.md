@@ -13,5 +13,4 @@
     *When one of the scenarios above occurs, a box will display on the screen with the outcome of the game.
     *Once you have seen the result, you have the option to start a new game, leave the current game displayed, 
      or to exit the program.
-    ![alt text][pic6]
-    [pic6]:
+   
