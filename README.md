@@ -13,4 +13,19 @@
     *When one of the scenarios above occurs, a box will display on the screen with the outcome of the game.
     *Once you have seen the result, you have the option to start a new game, leave the current game displayed, 
      or to exit the program.
-   
+     
+##Integral Components
+    *TicTacToe class-- This is the main class that holds the GUI frame and panel that allow the game to be played.
+    
+    *gamePanel class-- This is the supporting class that encompasses the dynamics of the game board and the 
+    different functions needed for the program to run correctly.
+    
+    *ButtonListener class--This class recognizes when you push the JButtons and corresponds with placing the 
+    correct letter in the box and swapping to the next players turn.  
+    
+    *CheckForWin boolean--The boolean steps through the various possibilities of getting three in a row and 
+    returns true if a player has three in a row.
+ 
+    *checkAdj boolean-- This boolean compares two of the values checking to see if they are equal.
+
+    *resetButtons void-- After nine turns, this resets the JLabels on all the buttons back to null.
