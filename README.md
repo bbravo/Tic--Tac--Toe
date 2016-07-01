@@ -6,7 +6,6 @@
 
 ##How To Play
     *After you compile the game in NetBeans, the game window will appear on the screen.
-    ![alt text](https://github.com/bbravo/Tic--Tac--Toe/blob/master/Tic-Tac-Toe/1.png)
     *When you choose the box you would like to place your letter, click inside the box and the your letter 
      will appear and change the JLabel at the bottom of the screen.
     *This process will continue until one player gets three in a row, horizontally, vertically, or diagonally, or 
